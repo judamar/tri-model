@@ -1,0 +1,5 @@
+{
+  "name": "tri-model",
+  "owner": { "name": "judamar" },
+  "plugins": [{ "name": "tri-model", "source": "./" }]
+}
